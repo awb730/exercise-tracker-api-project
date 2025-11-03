@@ -1,0 +1,24 @@
+{
+  "name": "exercise-tracker-project",
+  "version": "1.0.0",
+  "description": "Exercise Tracker RESTful API Project with Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+		"express"
+  ],
+  
+  "author": "Allen Baez",
+  "license": "ISC",
+  "type": "commonjs",
+  
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "node": "^25.1.0"
+  }
+}
