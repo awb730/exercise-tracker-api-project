@@ -1,5 +1,3 @@
-//"Node.js and Express Exercise Tracker RESTful API"
-
 const express = require('express')
 const app = express()
 const cors = require('cors')
